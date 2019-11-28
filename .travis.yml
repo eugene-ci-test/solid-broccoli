@@ -7,4 +7,4 @@ group: legacy-gce
 
 #cache: npm
 
-#script: echo test
+script: echo test
